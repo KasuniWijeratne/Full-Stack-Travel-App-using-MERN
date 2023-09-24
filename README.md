@@ -1,4 +1,5 @@
-**Full-Stack Travel App (MERN)**
+# Full-Stack Travel App (MERN)
+
 This project is a full-stack travel application developed with the MERN (MongoDB, Express, React, Node.js) stack. It is based on the tutorial by the Coding with Dawid YouTube channel, and it serves as a practice project for learning MERN development.
 
 **Project Overview**
